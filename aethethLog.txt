@@ -1,0 +1,30 @@
+
+
+Log file initialized at Saturday, January 28, 2017 - 3:40 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"aetheth" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170128.03:41:46 UTC	: [CRITICAL]Program.Main : Object reference not set to an instance of an object.
+20170128.03:41:46 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Friday, February 03, 2017 - 1:04 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"aetheth" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170203.01:04:38 UTC	: [CRITICAL]Program.Main : Object reference not set to an instance of an object.
+20170203.01:04:38 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Friday, February 03, 2017 - 1:15 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"aetheth" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170203.01:16:49 UTC	: [CRITICAL]Program.Main : Object reference not set to an instance of an object.
+20170203.01:16:49 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+asdfasdfasdfasf

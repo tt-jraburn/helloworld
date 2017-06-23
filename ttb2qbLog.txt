@@ -1,0 +1,1205 @@
+
+
+Log file initialized at Tuesday, February 21, 2017 - 9:45 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170221.09:45:47 UTC	: [CRITICAL]Program.Main : Object reference not set to an instance of an object.
+20170221.09:45:47 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Tuesday, February 21, 2017 - 9:58 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170221.09:58:25 UTC	: [CRITICAL]Program.Main : Object reference not set to an instance of an object.
+20170221.09:58:25 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Tuesday, February 21, 2017 - 10:04 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170221.10:04:50 UTC	: [CRITICAL]Program.Main : Object reference not set to an instance of an object.
+20170221.10:04:50 UTC	: [CRITICAL]Program.Main : Intuit_QBFC10
+20170221.10:04:50 UTC	: [CRITICAL]Program.Main :    at Intuit_QBFC10.Program.XmlItemLoad(XmlNode parentNode, String xmlElementName) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 428
+   at Intuit_QBFC10.Program.Main(String[] args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 151
+20170221.10:04:50 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Tuesday, February 21, 2017 - 10:05 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, February 21, 2017 - 10:09 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170221.10:09:56 UTC	: [CRITICAL]Program.Main : BeginSession method has not been called or it did not succeed.
+20170221.10:09:56 UTC	: [CRITICAL]Program.Main : QBFC13.QBSessionManager.1
+20170221.10:09:56 UTC	: [CRITICAL]Program.Main :    at QBFC13Lib.IQBSessionManager.GetCurrentCompanyFileName()
+   at Intuit_QBFC10.Program.Main(String[] args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 156
+20170221.10:09:56 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Tuesday, February 21, 2017 - 10:10 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, February 21, 2017 - 10:25 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, February 21, 2017 - 10:54 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, February 21, 2017 - 11:01 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, February 21, 2017 - 11:11 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, February 21, 2017 - 11:16 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:08 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:17 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:20 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:21 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:25 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:27 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:29 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:30 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:34 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:42 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:44 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:44 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 12:52 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:11 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:12 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:15 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:16 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:17 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:17 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, February 22, 2017 - 1:18 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:43 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:44 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:47 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:48 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:49 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:53 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:55 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 8:56 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, March 01, 2017 - 9:00 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 1:07 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 1:08 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 6:04 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 6:06 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:11 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:26 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:28 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:30 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:34 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:51 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 4:51 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:09 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:21 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:23 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:23 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:24 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:27 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:30 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 5:33 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 7:49 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 8:54 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 8:56 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 9:48 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 10:21 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, March 02, 2017 - 10:36 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 7:23 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 5:26 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 5:35 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 6:55 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 7:25 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 8:49 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 8:53 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 9:00 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 9:10 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 9:11 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 9:12 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 9:40 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 10:03 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 10:06 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:02 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:08 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:09 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:12 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:14 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:19 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:21 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:24 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:27 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:34 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:36 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:37 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:47 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:48 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:49 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 04, 2017 - 11:52 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:14 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:18 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:19 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:22 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:29 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:31 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:31 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:33 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:33 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:39 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:40 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:42 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:43 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 12:45 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 05, 2017 - 11:47 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, April 06, 2017 - 12:20 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, April 06, 2017 - 12:30 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, April 06, 2017 - 2:04 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, April 06, 2017 - 2:06 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Thursday, April 06, 2017 - 2:07 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 11, 2017 - 11:36 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 12, 2017 - 1:26 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 12, 2017 - 1:48 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 7:54 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 7:58 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 8:00 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 8:08 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 8:10 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 8:12 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 8:16 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 8:17 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 9:47 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, April 14, 2017 - 10:16 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 8:09 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 10:17 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 10:19 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 10:29 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 10:30 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 6:27 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 6:28 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 6:30 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 7:24 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 7:27 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 7:27 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 7:33 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 7:33 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 7:34 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 8:04 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, April 18, 2017 - 9:12 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:11 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:13 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:15 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:19 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:23 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:24 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Wednesday, April 19, 2017 - 1:25 AM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 7:35 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 7:41 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 7:46 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 7:50 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 8:20 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 8:46 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170526.20:46:57 UTC	: [CRITICAL]Program.Main : Value cannot be null.
+Parameter name: value
+20170526.20:46:57 UTC	: [CRITICAL]Program.Main :    at System.Boolean.Parse(String value)
+   at Intuit_QBFC10.SqlInterface..ctor(XmlNode args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\sql.cs:line 39
+   at Intuit_QBFC10.Program.Main(String[] args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 155
+20170526.20:46:57 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Friday, May 26, 2017 - 8:47 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170526.20:47:16 UTC	: [CRITICAL]Program.Main : Value cannot be null.
+Parameter name: value
+20170526.20:47:16 UTC	: [CRITICAL]Program.Main :    at System.Boolean.Parse(String value)
+   at Intuit_QBFC10.SqlInterface..ctor(XmlNode args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\sql.cs:line 39
+   at Intuit_QBFC10.Program.Main(String[] args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 155
+20170526.20:47:16 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Friday, May 26, 2017 - 8:52 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 9:57 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Friday, May 26, 2017 - 10:12 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, May 30, 2017 - 10:06 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170530.22:06:52 UTC	: [CRITICAL]Program.Main : Value cannot be null.
+Parameter name: value
+20170530.22:06:52 UTC	: [CRITICAL]Program.Main :    at System.Boolean.Parse(String value)
+   at Intuit_QBFC10.Program.Main(String[] args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 149
+20170530.22:06:52 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Tuesday, May 30, 2017 - 10:11 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+20170530.22:11:32 UTC	: [CRITICAL]Program.Main : Value cannot be null.
+Parameter name: value
+20170530.22:11:32 UTC	: [CRITICAL]Program.Main :    at System.Boolean.Parse(String value)
+   at Intuit_QBFC10.Program.Main(String[] args) in C:\Users\jraburn\Documents\Visual Studio 2015\Projects\Intuit_QBFC10\Intuit_QBFC10\Intuit QBFC\Program.cs:line 149
+20170530.22:11:32 UTC	: [CRITICAL]Program.Main : Application Terminating
+
+
+Log file initialized at Tuesday, May 30, 2017 - 10:26 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, May 30, 2017 - 10:28 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, May 30, 2017 - 10:47 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
+
+
+Log file initialized at Tuesday, May 30, 2017 - 10:58 PM UTC  
+Timestamp format used: YYYYMMDD.HH:MM:SS UTC
+"ttb2qb" version: 2.0, has been initialized with its logging status to _logLevel = CRITICAL.
+
+
